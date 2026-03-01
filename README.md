@@ -81,7 +81,7 @@ This project aligns with research in:
 ## 🤝 Contributors
 
 * Raj Tripathi
-* [Team Members]
+* Rehan Choudhary
 
 ## 📄 License
 
