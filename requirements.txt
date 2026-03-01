@@ -1,0 +1,19 @@
+# Core Data Processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualization
+matplotlib>=3.6.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Big Data Processing
+pyspark>=3.4.0
+
+# Financial Data (optional but good)
+yfinance>=0.2.0
+
+# Notebook Environment
+jupyter>=1.0.0
+notebook>=6.5.0
